@@ -1,4 +1,4 @@
-from src.Productos.Application.UseCase.Productos.GetProductosUseCase import GetUseCase as UseCase, Port
+from src.Productos.Application.UseCase.Productos.GetProductosUseCase import GetProductosUseCase as UseCase, Port
 
 
 class GetProductosController:
